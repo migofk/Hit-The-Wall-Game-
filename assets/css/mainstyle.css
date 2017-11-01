@@ -1,0 +1,8 @@
+.hideMe{
+  display: none;
+}
+
+.canvas{
+ border: 3px solid black;
+ background-color: black;
+}
