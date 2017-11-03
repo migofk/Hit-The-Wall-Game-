@@ -161,7 +161,7 @@ setInterval(function () {
     isPaused = true;
     $('#status').html("00");
     alert('You Win!');
-    obj = reset(obj,170,500,60,60,0,-1);
+    obj = reset(myGamePiece,170,500,60,60,0,-1);
     isWin = 40;
     }
     else{
